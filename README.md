@@ -1,6 +1,6 @@
 # erl_dial.erl
 
-Add the following line to the file <pre>`~/.erlang`</pre>:
+Add the following line to the file ~/.erlang:
 
 <pre>	code:add_patha("/my/path/erlang-utils").</pre>
 
